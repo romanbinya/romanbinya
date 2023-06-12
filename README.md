@@ -36,13 +36,22 @@
 <br/>  
 
 
-## Связь мо мной  
+## Связь мо мной
+
+
 <div align="center">
 <a href="https://github.com/romanbinya" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
 </div>  
-  
+ <div align="center">
+<a href="https://tenchat.ru/njlid">
+TenChat</a>
+</div>  
+<div align="center">
+<a href="https://t.me/prodvigmrt" target="_blank">
+Telegram</a>
+</div>  
+
 
 <br/>  
 
